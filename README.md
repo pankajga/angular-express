@@ -40,6 +40,6 @@ to build and serve the Angular application and the `npm start` in order to run t
 
 ⚠️ The `npm start` command must be defined inside the package.json file:
 
-## To check the use this link http://localhost:8080/api/status with your favorite browser:
+To check the use this link `http://localhost:8080/api/status` with your favorite browser:
 
-## For E2E run http://localhost:4200, check the network tab or console to verify it called the server
+For E2E run `http://localhost:4200`, check the network tab or console to verify it called the server
